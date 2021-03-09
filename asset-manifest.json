@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/pwa/static/css/main.861e87b9.chunk.css",
+    "main.js": "/pwa/static/js/main.eae6d46e.chunk.js",
+    "main.js.map": "/pwa/static/js/main.eae6d46e.chunk.js.map",
+    "runtime-main.js": "/pwa/static/js/runtime-main.bf1f307e.js",
+    "runtime-main.js.map": "/pwa/static/js/runtime-main.bf1f307e.js.map",
+    "static/js/2.28ec461b.chunk.js": "/pwa/static/js/2.28ec461b.chunk.js",
+    "static/js/2.28ec461b.chunk.js.map": "/pwa/static/js/2.28ec461b.chunk.js.map",
+    "static/js/3.aace56ca.chunk.js": "/pwa/static/js/3.aace56ca.chunk.js",
+    "static/js/3.aace56ca.chunk.js.map": "/pwa/static/js/3.aace56ca.chunk.js.map",
+    "index.html": "/pwa/index.html",
+    "static/css/main.861e87b9.chunk.css.map": "/pwa/static/css/main.861e87b9.chunk.css.map",
+    "static/js/2.28ec461b.chunk.js.LICENSE.txt": "/pwa/static/js/2.28ec461b.chunk.js.LICENSE.txt",
+    "static/media/favicon.64b876de.ico": "/pwa/static/media/favicon.64b876de.ico",
+    "static/media/qr-scanner.css": "/pwa/static/media/qrcode-scanner.6bae6df3.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bf1f307e.js",
+    "static/js/2.28ec461b.chunk.js",
+    "static/css/main.861e87b9.chunk.css",
+    "static/js/main.eae6d46e.chunk.js"
+  ]
+}
